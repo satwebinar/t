@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 May 2021 02:35:09 at https://webinar.smartenwave.com/financial-freedom +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://webinar.smartenwave.com/financial-freedom -O1 "C:\My Web Sites\yinwex learnoflix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:40:04	Warning: 	Moved Permanently for https://webinar.smartenwave.com/?p=513
+02:40:04	Warning: 	File has moved from https://webinar.smartenwave.com/?p=513 to https://webinar.smartenwave.com
+02:40:04	Warning: 	Moved Permanently for https://webinar.smartenwave.com/financial-freedom/Trident/
+02:40:04	Warning: 	File has moved from https://webinar.smartenwave.com/financial-freedom/Trident/ to https://webinar.smartenwave.com
+02:40:18	Warning: 	Moved Permanently for https://webinar.smartenwave.com/Trident/
+02:40:18	Warning: 	File has moved from https://webinar.smartenwave.com/Trident/ to https://webinar.smartenwave.com
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 9 seconds : 233 links scanned, 229 files written (1868377 bytes overall) [1132795 bytes received at 3666 bytes/sec], 1057283 bytes transferred using HTTP compression in 33 files, ratio 21%, 1.0 requests per connection
+(No errors, 6 warnings, 0 messages)
